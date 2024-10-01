@@ -1,5 +1,5 @@
 ##**Smalltalk - Orientação a Objetos com Smalltalk**
-## Assista à Aula
+### Assista à Aula
 
 Para assistir à aula completa sobre este projeto, acesse o link abaixo:
 
