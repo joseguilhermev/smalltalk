@@ -1,4 +1,9 @@
-## **Projeto Smalltalk - Orientação a Objetos com Smalltalk**
+##**Smalltalk - Orientação a Objetos com Smalltalk**
+## Assista à Aula
+
+Para assistir à aula completa sobre este projeto, acesse o link abaixo:
+
+[Assista à Aula no YouTube](https://www.youtube.com/watch?v=CfCTbi7ShOI)
 
 Este repositório contém um exemplo de implementação de conceitos de orientação a objetos usando a linguagem Smalltalk. O projeto demonstra a criação de classes, herança, polimorfismo e encapsulamento por meio das classes `Animal`, `Cachorro` e `Gato`.
 
